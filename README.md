@@ -3,8 +3,8 @@ Simple Speed Dial
 
 A speed dial functionally similar to the one used in Opera.
 
-[Chrome Extension TODO]()
-[GitHub Repository](https://github.com/rcwombat/speed-dial-chrome)
+[Chrome Extension TODO]()  
+[GitHub Repository](https://github.com/rcwombat/speed-dial-chrome)  
 Original [GitHub Repository](https://github.com/j3nda/speed-dial-chrome)
 
 
