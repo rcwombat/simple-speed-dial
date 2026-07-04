@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Speed Dial",
+  "version": "3.0.0",
+  "description": "A speed dial functionally similar to the one used in Opera, updated to manifest V3.",
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png",
+    "16": "icons/icon16.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "options_page": "options.html",
+  "permissions": [ 
+    "bookmarks", 
+    "storage" 
+  ],
+  "background": { 
+    "service_worker": "javascript/eventPage.js" 
+  }
+}
